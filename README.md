@@ -64,6 +64,6 @@
 </table>
 
 <h2>Info</h2>
-For more information about this project, please read the <a href="https://github.com/Scelfo42/Libft_42/blob/main/ft_printf_subject.pdf">subject</a>.
+For more information about this project, please read the <a href="https://github.com/Scelfo42/ft_printf_42/blob/main/ft_printf_subject.pdf">subject</a>.
 <h2>Licence</h2>
 See <a href="https://github.com/Scelfo42/ft_printf_42/blob/main/LICENSE">License</a>.
